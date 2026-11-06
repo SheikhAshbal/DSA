@@ -1,0 +1,6 @@
+name,age,score,batch
+Ali,22.0,88.0,A
+Sara,35.0,72.0,B
+Omar,,55.0,A
+Hina,19.0,,B
+Zed,28.0,91.0,A

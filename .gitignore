@@ -4,3 +4,14 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# Local Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local credentials
+.env
+.env.*
