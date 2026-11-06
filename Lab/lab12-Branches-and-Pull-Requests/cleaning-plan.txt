@@ -1,0 +1,3 @@
+Remove exact duplicate rows.
+Handle missing values using a documented rule.
+Fit learned preprocessing on training data only.
