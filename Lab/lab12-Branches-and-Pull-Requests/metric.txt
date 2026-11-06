@@ -1,1 +1,1 @@
-Evaluation metric: accuracy
+Evaluation metric: F1
