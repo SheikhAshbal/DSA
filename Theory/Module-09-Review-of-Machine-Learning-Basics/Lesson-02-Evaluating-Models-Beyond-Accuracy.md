@@ -293,4 +293,4 @@ An AUC of 0.5 indicates chance-level positive–negative ranking on the evaluate
 
 Worked responses, clarifying notes, calculations, and evaluation figures were prepared for this repository.
 
-[Previous lesson](./Lesson-01-Learning-Paradigms-and-Core-Algorithms.md) · [Module overview](./README.md) · [Theory index](../README.md)
+[Previous lesson](./Lesson-01-Learning-Paradigms-and-Core-Algorithms.md) · [Next lesson](./Lesson-03-Overfitting-Underfitting-and-Cross-Validation.md) · [Module overview](./README.md) · [Theory index](../README.md)
