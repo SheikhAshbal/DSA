@@ -8,7 +8,7 @@ Conceptual modules for Data Science and Analytics coursework. Each module has th
 | --- | --- | --- |
 | III | [Data Wrangling and Preprocessing](./Module-03-Data-Wrangling-and-Preprocessing/README.md) | Lessons 1–3 |
 | IV | [Review of Relational Algebra and SQL](./Module-04-Review-of-Relational-Algebra-and-SQL/README.md) | Lessons 1–3 |
-| V | [Data Modeling with the MapReduce Paradigm](./Module-05-Data-Modeling-with-the-MapReduce-Paradigm/README.md) | Lesson 1 |
+| V | [Data Modeling with the MapReduce Paradigm](./Module-05-Data-Modeling-with-the-MapReduce-Paradigm/README.md) | Lessons 1–2 |
 
 Modules I and II have been completed in the course but have not yet been documented in this repository.
 

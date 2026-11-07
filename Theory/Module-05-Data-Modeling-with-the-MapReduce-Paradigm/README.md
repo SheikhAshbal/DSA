@@ -9,7 +9,7 @@ This module introduces the reasons for distributed data processing and the MapRe
 | Lesson | Topic | Repository material |
 | --- | --- | --- |
 | 1 | [Big Data and Distributed Computing](./Lesson-01-Big-Data-and-Distributed-Computing.md) | Notes, five worked practice steps, and five suggested theory answers |
-| 2 | To be provided | Pending |
+| 2 | [The MapReduce Model: Map, Shuffle, Reduce](./Lesson-02-The-MapReduce-Model.md) | Notes, five worked practice steps, five suggested theory answers, and a local simulation |
 | 3 | To be provided | Pending |
 
 ## Learning objectives
@@ -19,7 +19,14 @@ This module introduces the reasons for distributed data processing and the MapRe
 - Weigh horizontal scaling against coordination and operating costs.
 - Recognise when efficient single-machine processing is sufficient.
 - Identify the distributed execution responsibilities abstracted by MapReduce.
+- Trace map, shuffle, and reduce data shapes.
+- Choose keys and safe partial aggregations.
+- Explain shuffle costs and suitable workloads.
 
 Lesson 1 is conceptual; its examples are architectural decisions rather than a deployed cluster or runtime benchmark.
+
+## Local simulation
+
+Run [lesson02-mapreduce-demo.mjs](./lesson02-mapreduce-demo.mjs) with Node.js for word count, failed-login counts, and safe batch averages. It is an in-memory teaching model, not a distributed runtime.
 
 Repository availability describes documented material, not course grades or submission status.
