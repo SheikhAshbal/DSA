@@ -244,4 +244,4 @@ Before sharing, restart the kernel and run every cell from top to bottom, inspec
 
 Worked responses, clarifications, and executable examples were prepared for this repository.
 
-[Module overview](./README.md) · [Theory index](../README.md)
+[Next lesson](./Lesson-02-The-Essential-Library-Stack.md) · [Module overview](./README.md) · [Theory index](../README.md)
