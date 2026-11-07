@@ -264,4 +264,4 @@ This reduces repeated code and supports shared pipelines and cross-validation wo
 
 Worked responses, clarifications, numerical examples, and figures were prepared for this repository.
 
-[Previous lesson](./Lesson-01-Python-as-the-Language-of-Data-Science.md) · [Module overview](./README.md) · [Theory index](../README.md)
+[Previous lesson](./Lesson-01-Python-as-the-Language-of-Data-Science.md) · [Next lesson](./Lesson-03-Cloud-Notebooks-Colab-Kaggle-and-Reproducibility.md) · [Module overview](./README.md) · [Theory index](../README.md)
