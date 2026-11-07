@@ -7,7 +7,7 @@ Conceptual modules for Data Science and Analytics coursework. Each module has th
 | Module | Topic | Material available here |
 | --- | --- | --- |
 | III | [Data Wrangling and Preprocessing](./Module-03-Data-Wrangling-and-Preprocessing/README.md) | Lessons 1–3 |
-| IV | [Review of Relational Algebra and SQL](./Module-04-Review-of-Relational-Algebra-and-SQL/README.md) | Lessons 1–2 |
+| IV | [Review of Relational Algebra and SQL](./Module-04-Review-of-Relational-Algebra-and-SQL/README.md) | Lessons 1–3 |
 
 Modules I and II have been completed in the course but have not yet been documented in this repository.
 
