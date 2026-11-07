@@ -1,6 +1,15 @@
 # Theory
 
-Conceptual modules for Data Science coursework. Each module has 3 lessons.
+Conceptual modules for Data Science and Analytics coursework. Each module has three lessons.
 
 ## Modules
-_(add as you go)_
+
+| Module | Topic | Material available here |
+| --- | --- | --- |
+| III | [Data Wrangling and Preprocessing](./Module-03-Data-Wrangling-and-Preprocessing/README.md) | Lesson 1 |
+
+Modules I and II have been completed in the course but have not yet been documented in this repository.
+
+Each documented lesson includes explanations, worked practice, suggested theory answers, and revision notes.
+
+[Back to repository](../README.md)
