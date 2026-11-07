@@ -9,7 +9,7 @@ This module reviews learning tasks, core algorithms, and the reasoning needed to
 | Lesson | Topic | Repository material |
 | --- | --- | --- |
 | 1 | [Learning Paradigms and Core Algorithms](./Lesson-01-Learning-Paradigms-and-Core-Algorithms.md) | Notes, five worked practice steps, five suggested theory answers, tested model examples, and an illustration |
-| 2 | To be provided | Pending |
+| 2 | [Evaluating Models Beyond Accuracy](./Lesson-02-Evaluating-Models-Beyond-Accuracy.md) | Notes, five worked practice steps, five suggested theory answers, tested metric calculations, and plots |
 | 3 | To be provided | Pending |
 
 ## Learning objectives
@@ -18,10 +18,14 @@ This module reviews learning tasks, core algorithms, and the reasoning needed to
 - Identify supervised classification, supervised regression, and unsupervised clustering.
 - Explain linear regression, decision trees, and k-means.
 - Choose simple baselines without confusing interpretability with validation.
+- Read confusion matrices and evaluate imbalanced classification.
+- Interpret precision, recall, F1, ROC/AUC, and threshold effects.
 
-## Reproducible example
+## Reproducible examples
 
 Run [lesson01-learning-demo.py](./lesson01-learning-demo.py) to inspect learned rules, clusters, and coefficients. Add --plot to regenerate the [algorithm illustration](./lesson01-algorithm-examples.svg). Tested dependencies are recorded in [lesson01-requirements.txt](./lesson01-requirements.txt).
+
+Run [lesson02-evaluation-demo.py](./lesson02-evaluation-demo.py) for fixed prediction and score examples. Add --plot to regenerate the [evaluation figure](./lesson02-evaluation-plots.svg), using the same dependency versions.
 
 The fits are small teaching demonstrations, not claims of held-out or deployment performance.
 
