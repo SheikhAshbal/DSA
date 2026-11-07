@@ -1,0 +1,3 @@
+# Tested with Python 3.12.14. Notebook UI is optional and installed separately.
+numpy==2.3.5
+pandas==3.0.1
