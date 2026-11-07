@@ -12,6 +12,7 @@ Conceptual modules for Data Science and Analytics coursework. Each module has th
 | VI | [Exploratory Data Analysis (EDA)](./Module-06-Exploratory-Data-Analysis/README.md) | Lessons 1–3 |
 | VII | [Data Visualization](./Module-07-Data-Visualization/README.md) | Lessons 1–3 |
 | VIII | [Review of Probability and Statistics](./Module-08-Review-of-Probability-and-Statistics/README.md) | Lessons 1–3 |
+| IX | [Review of Machine Learning Basics](./Module-09-Review-of-Machine-Learning-Basics/README.md) | Lesson 1 |
 
 Modules I and II have been completed in the course but have not yet been documented in this repository.
 
