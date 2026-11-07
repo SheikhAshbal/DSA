@@ -10,7 +10,7 @@ Conceptual modules for Data Science and Analytics coursework. Each module has th
 | IV | [Review of Relational Algebra and SQL](./Module-04-Review-of-Relational-Algebra-and-SQL/README.md) | Lessons 1–3 |
 | V | [Data Modeling with the MapReduce Paradigm](./Module-05-Data-Modeling-with-the-MapReduce-Paradigm/README.md) | Lessons 1–3 |
 | VI | [Exploratory Data Analysis (EDA)](./Module-06-Exploratory-Data-Analysis/README.md) | Lessons 1–3 |
-| VII | [Data Visualization](./Module-07-Data-Visualization/README.md) | Lesson 1 |
+| VII | [Data Visualization](./Module-07-Data-Visualization/README.md) | Lessons 1–2 |
 
 Modules I and II have been completed in the course but have not yet been documented in this repository.
 
